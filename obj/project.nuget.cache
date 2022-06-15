@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Y/hiVe6jSgyGnH4yjfjbuYtVI2dDkAyiG2ymMbTloOwdkkOwQb6qjwgqwFtm7uS4qX4OGJjHcVaMR+BECdmS6A==",
+  "dgSpecHash": "Q/QRo57Mko8wg2B2qcO8OuZCzhQfQaoxvcbtdrIdH7cp3JGoxD8NANhKPEnrTCIF7W4EW+9mJRI7NwKipHyybg==",
   "success": true,
   "projectFilePath": "D:\\source\\automation\\cSharp\\automate-env\\automate-env.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\bauti\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\bauti\\.nuget\\packages\\selenium.chrome.webdriver\\85.0.0\\selenium.chrome.webdriver.85.0.0.nupkg.sha512",
+    "C:\\Users\\bauti\\.nuget\\packages\\selenium.webdriver\\4.2.0\\selenium.webdriver.4.2.0.nupkg.sha512"
+  ],
   "logs": []
 }
